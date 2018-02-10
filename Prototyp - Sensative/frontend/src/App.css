@@ -1,0 +1,51 @@
+//App css
+html, body, .App, .App > div {
+
+  height: 100%;
+
+}
+
+#content {
+
+  background: lightgray;
+  height: 700px;
+
+}
+#navigation {
+
+  width: 100%;
+
+}
+
+#navigation .container {
+
+  margin: 0 !important;
+  background: white;
+  width: 100%;
+}
+
+#basic-nav-dropdown {
+
+  margin-top: 10%;
+
+}
+
+Navbar.Header {
+
+  background: white;
+
+}
+
+#logo {
+
+  float: left;
+  height: 75px;
+
+}
+
+#content {
+
+  height: 750px;
+  background: #efefef;
+  border-radius: 5px;
+}
