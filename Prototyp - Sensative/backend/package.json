@@ -1,0 +1,23 @@
+{
+  "name": "saas-prot-sensative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bostongurra2/SaaS-Sensative.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bostongurra2/SaaS-Sensative/issues"
+  },
+  "homepage": "https://github.com/bostongurra2/SaaS-Sensative#readme"
+}
